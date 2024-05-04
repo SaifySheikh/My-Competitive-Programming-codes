@@ -1,30 +1,4 @@
-/*
-Question-
-Add one to a number represented as Linked List
-Easy
-40/40
-Average time to solve is 23m
-96 upvotes
-Asked in companies
-Problem statement
-You're given a positive integer represented in the form of a singly linked-list of digits. The length of the number is 'n'.
 
-
-
-Add 1 to the number, i.e., increment the given number by one.
-
-
-
-The digits are stored such that the most significant digit is at the head of the linked list and the least significant digit is at the tail of the linked list.
-
-
-
-Example:
-Input: Initial Linked List: 1 -> 5 -> 2
-
-Output: Modified Linked List: 1 -> 5 -> 3
-
-Explanation: Initially the number is 152. After incrementing it by 1, the number becomes 153.*/
 
 #include <iostream>
 
